@@ -1,2 +1,2 @@
 # super-train
-super train
+print('super train')
